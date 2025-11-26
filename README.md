@@ -290,3 +290,9 @@ Use of collections, records, cursors, and DML
 Practical patient management functionality
 
 The system is extendable and ready for additional hospital features such as appointments, billing, or ward management.
+
+### Individual Contributions
+
+- Denis: Implemented `bulk_load_patients` procedure and `login_failure_trigger` for security alerts.
+- Janet: Designed database schema and wrote test scripts.
+- [Other members]: [Their tasks...]
